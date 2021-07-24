@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Regor 👋
 
-
+## GitHub Stats
+<img src="https://github.com/regorDam/regorDam/blob/master/Animation.gif" width="870">
 <img src="https://github-readme-stats.vercel.app/api?username=regorDam&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" width="870">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=regorDam&theme=jolly" width="870">
 
