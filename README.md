@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=regorDam&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" width="870">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=regorDam&theme=jolly" width="870">
+
+
+### Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/regorDam/regorDam/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **regorDam/regorDam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
