@@ -6,6 +6,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=regorDam&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" width="870">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=regorDam&theme=jolly" width="870">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regorDam&hide=javascript&langs_count=10&layout=compact)
+
+
 
 ### Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/regorDam/regorDam/blob/output/github-contribution-grid-snake.gif)
