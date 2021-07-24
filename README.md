@@ -1,4 +1,5 @@
 ### Hi there, I'm Regor 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${regorDam}.$regorDam})
 
 ## GitHub Stats
 <img src="https://github.com/regorDam/regorDam/blob/master/Animation.gif" width="870">
